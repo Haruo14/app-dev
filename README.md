@@ -1,5 +1,7 @@
 # app-dev
 My first repository
 
-+ - Our Beloved Summer
-+ - Jujutsu Kaisen
+{
+  "Favorite Movies": "Jujutsu Kaisen",
+  "Favorite Series": "Our Beloved Summer",
+}
